@@ -1,0 +1,6 @@
+@media (max-width: 480px) {
+  .about-me .container .row .col-lg-6 img {
+    position: relative;
+    left: 20px;
+  }
+}
