@@ -1,0 +1,48 @@
+@media screen and (max-width: 500px) {
+  .reviews_container {
+    width: 280px;
+  }
+
+  .box_comments {
+    width: 250px;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  .testimonial-box {
+    width: auto;
+  }
+
+  .reviews {
+    font-size: 12px;
+  }
+
+  div.profile {
+    font-size: 10px;
+  }
+
+  .reviews label {
+    font-size: 1.5rem;
+  }
+
+  label.fas.fa-star {
+    margin-right: 5px;
+  }
+
+  #commentForm {
+    padding: 20px;
+  }
+
+  .profile-image {
+    height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-me .container .row .col-lg-6 img {
+    position: relative;
+    left: 20px;
+  }
+}
